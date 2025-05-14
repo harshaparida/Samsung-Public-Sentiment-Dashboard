@@ -6,4 +6,4 @@ This project fetches the latest tweets about **Samsung**, analyzes their sentime
 
 ## 📸 Dashboard Preview
 
-![Dashboard](Public Sentiment Dashboard.png)
+![Dashboard](dashboard.png)
